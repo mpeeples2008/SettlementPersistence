@@ -15,6 +15,10 @@ npp_SV <- read.csv(file="npp_SV.csv")
 npp_dat <- rbind(npp_CI,npp_SW1,npp_SW2,npp_SE,npp_YA,npp_FC,npp_BM,npp_SV)
 pop_dat <- read.csv('Occupation_spans.csv',header=T)
 
+## Figure 1
+
+## See npp_plots.Rmd for code for reproducing Figure 1
+
 ## Figure 2
 
 ## Shown at end of document as it relies on objects created in other figure calls
