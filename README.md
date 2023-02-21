@@ -1,9 +1,9 @@
 # SettlementPersistence
 
-The code and data presented here provide all of the necessary information to replicate the analyses in Crawford et. al. (in press).
+The code and data presented here provide all of the necessary information to replicate the analyses in Crawford et. al. (2023).
 
-Crawford, Katherine, Angela Huster, Matthew A. Peeples, Nicolas Gauthier, Michael E. Smith, Abigail Yor, Daniel Lawrence. (in press)
-A systematic approach for studying the persistence of settlements in the past. **Antiquity**
+Crawford, Katherine, Angela Huster, Matthew A. Peeples, Nicolas Gauthier, Michael E. Smith, Abigail Yor, Daniel Lawrence. (2023).
+A systematic approach for studying the persistence of settlements in the past. **Antiquity** 97(391):213-230.
 
 ## Contents
 
